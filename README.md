@@ -1,4 +1,4 @@
 # datascience_finalproject
 Final capstone project 
 
-This is the final project of the Parami Data Science Essentials course. The project is created using the Python programming language and the Streamlit application. 
+This is the final project for the Parami Data Science Essentials course. The project analyzes the 2021 World Happiness data using Python for data analysis and Streamlit for building an interactive dashboard.
